@@ -33,8 +33,10 @@ I like working across the stack to understand data flow, system design, and how 
 - 🎨 UI built with Tailwind CSS and shadcn/ui
 - ☁️ Deployed on Vercel with database hosted on Supabase
 
-🌍 **Live:** https://productivity.laurynas.space/
-🔗 **GitHub:** https://github.com/SpaceJack777/next-js-productivity-app
+<p>
+  🌍 <strong>Live:</strong> https://productivity.laurynas.space/<br>
+  🔗 <strong>GitHub:</strong> https://github.com/SpaceJack777/next-js-productivity-app
+</p>
 
 ---
 
