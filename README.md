@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/laurynas-mi%C5%A1kinis-aa75875b/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Laurynas%20Miškinis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
